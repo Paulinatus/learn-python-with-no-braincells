@@ -1,5 +1,5 @@
 import time
-i="y"
+i="y"                                                # Beschwert euch nicht über meine Variablen sonst knallts
 while i=="y":
     print("please choose one option for calculation")
     print("1=+")
@@ -61,4 +61,5 @@ while i=="y":
             print("Fehler!!!")
             print("Programm wird beendet")
             print("Auf Wiedersehen")
+
             time.sleep(5)
